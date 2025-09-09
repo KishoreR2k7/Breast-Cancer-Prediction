@@ -31,6 +31,14 @@ Click the link below to try the app online:
 ## https://huggingface.co/spaces/KishoreR123/Breast-Cancer-Prediction
 
 
+## Login:
+
+
+## username:user
+
+
+## passward:123456
+
 <img width="1916" height="786" alt="image" src="https://github.com/user-attachments/assets/df076f8f-efcb-4017-bcd2-e73f338d564c" />
 
 
